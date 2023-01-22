@@ -2,6 +2,7 @@
 - 👀 I’m interested in computer animation and technical art.
 - 🌱 I’m currently learning computer graphics and game technology at University of Pennsylvania as master student.
 - 💞️ I’m looking to collaborate on CG-related projects, tools or anything fun!
+- ✨ Check out the cool projects I worked on at http://lindadaism.com
 - 📫 How to reach me: zhulinda@seas.upenn.edu
 
 <!---
