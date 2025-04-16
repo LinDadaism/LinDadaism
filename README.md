@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Linda Zhu.
-- 👀 I’m interested in computer animation and technical art.
-- 🌱 I’m currently studying Computer Graphics and Game Technology at University of Pennsylvania as master student.
-- 💞️ I’m looking to collaborate on game development, computer animation and CG-related projects, tools or anything fun!
+- 👀 I’m interested in computer graphics and technical art.
+- 🌱 I’m currently working at Apple under Vision Pro Group.
+- 💞️ I’m looking to collaborate on games, animation and CG-related projects, tools or anything fun!
 - ✨ Check out the cool projects I worked on at https://lindadaism.com
-- 📫 How to reach me: zhulinda@seas.upenn.edu
+- 📫 How to reach me: lindazhu9832@hotmail.com
 
 <!---
 LinDadaism/LinDadaism is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
